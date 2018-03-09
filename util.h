@@ -1,0 +1,4 @@
+namespace util
+{
+    void print();
+}

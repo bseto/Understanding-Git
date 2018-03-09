@@ -1,10 +1,6 @@
-#include <stdio.h>
-
-void print() {
-    printf("Hello World!\n");
-}
+#include "util.h"
 
 int main () {
-    print();
+    util::print();
     return 0;
 }
